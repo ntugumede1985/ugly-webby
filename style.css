@@ -8,6 +8,7 @@ h1 {
     letter-spacing: -1px;
     line-height: 1;
     text-align: right;
+    text-justify: inter-character;
     background-color: coral;
 
 }
@@ -15,11 +16,11 @@ h1 {
 p {
     color: #680668;
     font-family: 'Comic Sans';
-    font-size: 14px;
+    font-size: 20px;
     line-height: 24px;
     margin: 0 0 24px;
-    text-align: justify;
-    text-justify: inter-word;
+    text-align: center;
+    text-justify: inter-character;
     background-color: rgb(170, 172, 33);
 }
 
