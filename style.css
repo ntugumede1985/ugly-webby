@@ -1,8 +1,9 @@
 
-background-image: url(https://en.wikipedia.org/wiki/The_Good,_the_Bad_and_the_Ugly#/media/File:Good_the_bad_and_the_ugly_poster.jpg)
+background-image: url(https://en.wikipedia.org/wiki/The_Good,_the_Bad_and_the_Ugly#/media/File:Good_the_bad_and_the_ugly_poster.jpg);
 h1 {
-    color: #111;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    color: rgb(34, 34, 34);
+    background-color: #987325
+    font-family: 'Comic Sans';
     font-size: 275px;
     font-weight: bold, italic;
     letter-spacing: -1px;
@@ -13,7 +14,7 @@ h1 {
 
 p {
     color: #680668;
-    font-family: 'Comic Sans', sans-serif;
+    font-family: 'Comic Sans';
     font-size: 14px;
     line-height: 24px;
     margin: 0 0 24px;
@@ -33,7 +34,7 @@ ul, ol {
 }
 
 li {
-    font: 200 20px/2.5 'Comics Sans', Verdana, sans-serif;
+    font: 200 20px/2.5 'Comics Sans';
     border-bottom: 1px solid #ccc;
 }
    
@@ -47,6 +48,7 @@ form {
     margin:auto;
     border:1px #CCC solid;
     padding:10px;
+    background-color: #680668
 }
     
 input, textarea {
