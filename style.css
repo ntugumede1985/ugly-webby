@@ -20,7 +20,7 @@ p {
     margin: 0 0 24px;
     text-align: justify;
     text-justify: inter-word;
-    background-color: coral;
+    background-color: rgb(170, 172, 33);
 }
 
 textarea {
@@ -32,13 +32,13 @@ textarea {
 ul, ol {
     margin: 20px;
     padding: 0;
-    background-color: coral;
+    background-color: rgb(255, 80, 232);
 }
 
 li {
     font: 200 20px/2.5 'Comics Sans';
     border-bottom: 1px solid #ccc;
-    background-color: coral;
+    background-color: rgb(80, 249, 255);
 }
    
 li:last-child {
@@ -57,5 +57,5 @@ form {
 input, textarea {
     padding:5px;
     margin:5px
-    background-color: pink;
+    background-color: #55555;
 }
