@@ -15,7 +15,7 @@ h1 {
 
 p {
     color: #680668;
-    font-family: 'Comic Sans';
+    font-family: 'Comic Sans MS';
     font-size: 20px;
     line-height: 24px;
     margin: 0 0 24px;
@@ -37,7 +37,7 @@ ul, ol {
 }
 
 li {
-    font: 200 20px/2.5 'Comics Sans';
+    font: 200 20px/2.5 'Comics Sans MS';
     border-bottom: 1px solid #ccc;
     background-color: rgb(80, 249, 255);
 }
