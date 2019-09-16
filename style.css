@@ -1,4 +1,4 @@
-<body bgcolor="E#987325">
+
 h1 {
     color: rgb(34, 34, 34);
     background-color: #987325
@@ -8,6 +8,7 @@ h1 {
     letter-spacing: -1px;
     line-height: 1;
     text-align: right;
+    background-color: coral;
 
 }
 
@@ -19,6 +20,7 @@ p {
     margin: 0 0 24px;
     text-align: justify;
     text-justify: inter-word;
+    background-color: coral;
 }
 
 textarea {
@@ -30,11 +32,13 @@ textarea {
 ul, ol {
     margin: 20px;
     padding: 0;
+    background-color: coral;
 }
 
 li {
     font: 200 20px/2.5 'Comics Sans';
     border-bottom: 1px solid #ccc;
+    background-color: coral;
 }
    
 li:last-child {
@@ -53,4 +57,5 @@ form {
 input, textarea {
     padding:5px;
     margin:5px
+    background-color: pink;
 }
