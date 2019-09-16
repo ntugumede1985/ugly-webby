@@ -1,16 +1,17 @@
 h1 {
     color: #111;
-    font-family: 'Comic Sans', sans-serif;
+    font-family: 'Comic Sans' , sans-serif;
     font-size: 275px;
-    font-weight: bold;
+    font-weight: bold, italic;
     letter-spacing: -1px;
     line-height: 1;
-    text-align: center;
+    text-align: right;
+
 }
 
 p {
-    color: #685206;
-    font-family: 'Helvetica Neue', sans-serif;
+    color: #680668;
+    font-family: 'Comic Sans', sans-serif;
     font-size: 14px;
     line-height: 24px;
     margin: 0 0 24px;
@@ -30,7 +31,7 @@ ul, ol {
 }
 
 li {
-    font: 200 20px/1.5 Helvetica, Verdana, sans-serif;
+    font: 200 20px/2.5 'Comics Sans', Verdana, sans-serif;
     border-bottom: 1px solid #ccc;
 }
    
